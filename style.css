@@ -1,0 +1,106 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.sec_one{
+    background-color: black;
+    color: aliceblue;
+    padding: 20px;
+    margin: 20px;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+.contact{
+    background-color: palegoldenrod;
+    color: green;
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 800;
+    padding-bottom: 20px;
+}
+
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 530;
+    padding-bottom: 20px;
+}
+
+p{
+    padding-bottom: 20px;
+}
+
+.sec_two{
+    padding: 20px;
+    margin: 20px;
+}
+
+.sec_three li, .sec_four li{
+    list-style: none;
+
+}
+
+.sec_three{
+    background-color: peru;
+    color: black;
+    padding: 20px;
+    margin: 20px;
+    height: 300px;
+    width: 150px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.sec_four{
+    background-color: olive;
+    color: black;
+    padding: 20px;
+    margin: 20px;
+    height: 300px;
+    width: 1100px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.sec_five{
+    background-color: black;
+    color: aliceblue;
+    height: 60px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.contact_form{
+    padding: 20px;
+}
+
+.contact_input{
+    padding: 20px;
+    margin: 20px;
+    border: none;
+    border-bottom: solid black 2px;
+}
+
+.contact_textarea{
+    padding: 20px;
+    margin: 20px;
+}
+
+.contact_submit{
+    background-color: darkolivegreen;
+    color: black;
+    padding: 5px;
+    margin: 20px;
+    border: none;
+}
+
+.media{
+    color: plum;
+}
